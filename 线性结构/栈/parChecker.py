@@ -1,4 +1,4 @@
-# 括号匹配，stack
+# 括号匹配((()))，stack
 
 from stack import Stack
 
